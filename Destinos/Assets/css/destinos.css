@@ -1,5 +1,5 @@
 body{
-  background-color: #f8fafe;
+  background-color: #1E3D7E;
 }
 
 
@@ -22,12 +22,12 @@ body{
   }
 
   .container h1{
-    color: #1201ff;
+    color: #ffffff;
     font-family: arial;
   }
 
   #beachvillasyresort h3{
-    color: #0303f4;
+    color: #ffffff;
     font-family: arial;
   }
 
@@ -36,12 +36,12 @@ body{
 }
 
   #beachvillasyresort p{
-    color: #0c04f8;
+    color: #ffffff;
     font-family: arial;
   }
 
 #Brisamarina h3,p{
-  color: #1504fa;
+  color: #ffffff;
   font-family: arial;
 }
 
@@ -51,7 +51,7 @@ body{
 
 #eldorado h3,p{
   font-family: arial;
-  color: #022bfa;
+  color: #ffffff;
 }
 
 #eldorado img{
@@ -60,7 +60,7 @@ body{
 
 #lasveraneras h3,p{
   font-family: arial;
-  color: #031ffa;
+  color: #ffffff;
 }
 
 #lasveraneras img{
@@ -68,7 +68,7 @@ body{
 }
 
 #villagelodge h3,p{
-  color: #1b03fb;
+  color: #fcfcff;
 }
 
 #villagelodge img{
@@ -77,7 +77,7 @@ body{
 
 #historia h3{
   font-family: arial;
-  color: #1104fc;
+  color: #ffffff;
 }
 
 #historia img{
